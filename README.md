@@ -32,3 +32,15 @@ Dataset in csv format
 
 3. country&codes.xlsx
 Additional csv file for 3-digit country codes
+
+## Acknowledgement
+
+* Github repo:
+* Blog post:
+* Soutces: <br>
+    > Visualizing my results on a map: https://plotly.com/python/choropleth-maps/ <br>
+    > Data wrangling: https://pandas.pydata.org/docs/user_guide/index.html <br>
+    > Visualizations: https://seaborn.pydata.org/tutorial.html <br>
+    > When I stuck with any coding error: https://stackoverflow.com/ <br>
+    > I've spent more time with matplotlib than my gf: https://matplotlib.org/stable/users/index.html <br>
+    > To get a glimps how the end project looks like: https://medium.com/@emrebilgehangedik/seattle-airbnb-listings-analysis-d88c839596f8
